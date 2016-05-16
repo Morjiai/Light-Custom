@@ -12,3 +12,6 @@ Customized version of Light by @n___e___o___n </br>
 - fix user count bug that was created when  getting the source.</br>
 ========== Things Removed ==========</br>
 - non iOS user agents couldn't vist before, this is changed.</br>
+========== The Future ==========</br>
+- Fix user count </br>
+- Fix the issue with user agents</br>
